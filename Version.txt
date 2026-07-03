@@ -1,0 +1,2 @@
+hola mundo
+este es la version pre alfa de mi proyecto
